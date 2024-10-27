@@ -34,7 +34,7 @@
     "@types/got": "~9.6.2",
     "@types/node": "~20.12.0",
     "@types/progress": "~2.0.3",
-    "execa": "~8.0.0",
+    "execa": "~9.5.0",
     "got": "~14.2.0",
     "meow": "~9.0.0",
     "progress": "~2.0.3"
