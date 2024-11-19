@@ -18,9 +18,9 @@
     "selenium:stop": "pnpm exec ts-node packages/selenium/src/bin/index.ts stop"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "~19.1.0",
-    "@commitlint/config-lerna-scopes": "~19.0.0",
-    "@commitlint/cli": "~19.2.0",
+    "@commitlint/config-conventional": "~19.6.0",
+    "@commitlint/config-lerna-scopes": "~19.5.0",
+    "@commitlint/cli": "~19.6.0",
     "@nighttrax/eslint-config-tsx": "~12.0.0-alpha.0",
     "eslint": "~8.57.0",
     "lerna": "~6.6.0",
