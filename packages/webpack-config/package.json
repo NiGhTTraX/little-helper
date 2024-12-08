@@ -24,7 +24,7 @@
   ],
   "scripts": {},
   "peerDependencies": {
-    "webpack": "^5.0.0"
+    "webpack": "^5.94.0"
   },
   "dependencies": {
     "browserslist": "~4.23.0",
@@ -39,7 +39,7 @@
     "postcss-normalize": "~10.0.0",
     "postcss-preset-env": "~9.5.0",
     "style-loader": "~4.0.0",
-    "webpack": "~5.91.0"
+    "webpack": "~5.94.0"
   },
   "devDependencies": {
     "typescript": "~5.4.0",
