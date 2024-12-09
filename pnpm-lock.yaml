@@ -169,7 +169,7 @@ importers:
         version: link:../jest-config
       '@types/chai':
         specifier: ~4.3.0
-        version: 4.3.14
+        version: 4.3.15
       '@types/fs-extra':
         specifier: ~11.0.0
         version: 11.0.4
@@ -2532,8 +2532,8 @@ packages:
     dependencies:
       '@babel/types': 7.22.5
 
-  /@types/chai@4.3.14:
-    resolution: {integrity: sha512-Wj71sXE4Q4AkGdG9Tvq1u/fquNz9EdG4LIJMwVVII7ashjD/8cf8fyIfJAjRr6YcsXnSE8cOGQPq1gqeR8z+3w==}
+  /@types/chai@4.3.15:
+    resolution: {integrity: sha512-PYVSvyeZqy9++MoSegq88PxoPndWDDLGbJmE/OZnzUk3D4cCRTmA4N6EX3g0GgLVA+vtys7bj4luhkVCglGTkQ==}
     dev: false
 
   /@types/conventional-commits-parser@5.0.0:
