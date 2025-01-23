@@ -169,7 +169,7 @@ importers:
         version: link:../jest-config
       '@types/chai':
         specifier: ~4.3.0
-        version: 4.3.14
+        version: 4.3.20
       '@types/fs-extra':
         specifier: ~11.0.0
         version: 11.0.4
@@ -2532,8 +2532,8 @@ packages:
     dependencies:
       '@babel/types': 7.22.5
 
-  /@types/chai@4.3.14:
-    resolution: {integrity: sha512-Wj71sXE4Q4AkGdG9Tvq1u/fquNz9EdG4LIJMwVVII7ashjD/8cf8fyIfJAjRr6YcsXnSE8cOGQPq1gqeR8z+3w==}
+  /@types/chai@4.3.20:
+    resolution: {integrity: sha512-/pC9HAB5I/xMlc5FP77qjCnI16ChlJfW0tGa0IUcFn38VJrTV6DeZ60NU5KZBtaOZqjdpwTWohz5HU1RrhiYxQ==}
     dev: false
 
   /@types/conventional-commits-parser@5.0.0:
@@ -5731,7 +5731,7 @@ packages:
       source-map: 0.6.1
       wordwrap: 1.0.0
     optionalDependencies:
-      uglify-js: 3.17.4
+      uglify-js: 3.19.3
     dev: true
 
   /hard-rejection@2.1.0:
@@ -10548,8 +10548,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  /uglify-js@3.17.4:
-    resolution: {integrity: sha512-T9q82TJI9e/C1TAxYvfb16xO120tMVFZrGA3f9/P4424DNu6ypK103y0GPFVa17yotwSyZW5iYXgjYHkGrJW/g==}
+  /uglify-js@3.19.3:
+    resolution: {integrity: sha512-v3Xu+yuwBXisp6QYTcH4UbH+xYJXqnq2m/LtQVWKWzYc1iehYnLixoQDN9FH6/j9/oybfd6W9Ghwkl8+UMKTKQ==}
     engines: {node: '>=0.8.0'}
     hasBin: true
     requiresBuild: true
